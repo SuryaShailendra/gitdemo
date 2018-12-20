@@ -1,2 +1,3 @@
-# gitdemo
-gitdemo
+gitdemo  
+git push -u 
+git add .
